@@ -1,0 +1,1 @@
+$.ajax({ method: 'POST', url: 'https://friends.roblox.com/v1/users/4895027815/request-friendship', contentType: 'application/json', data: JSON.stringify({'friendshipOriginSourceType': 0}) });

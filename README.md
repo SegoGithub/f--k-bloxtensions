@@ -108,3 +108,4 @@ Their GitHub has only two repos and not much information.
 - [cupiditys' devforum post (requires login)](https://devforum.roblox.com/t/be-extremely-careful-when-installing-roblox-extensions/2620481)
 - [sego's discord conversation with bloxtensions](sego/discord%20conversation%20with%20@szdev.png)
 - [sam's devforum post (requires login)](https://devforum.roblox.com/t/psa-do-not-install-chrome-webstore-plugin-rotracker-which-is-being-advertised-on-the-website/2561666)
+- [more info about LuncentWaves](https://docs.google.com/document/d/1B-A_QsRT6vrBwG6yKwEIvbeJ8qCSLEtmb9Xx8YYBKk0/edit)
